@@ -1,3 +1,12 @@
+##Download
+
+Please download from
+https://github.com/shadowsocksrr/shadowsocksr-android/releases
+
+OR
+
+https://github.com/JBLeung/shadowsocksr-android/downloadBackup
+
 ## ShadowsocksR for Android
 
 A [shadowsocksR](https://github.com/breakwa11/shadowsocks-rss/) client for Android, written in Scala.
